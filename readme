@@ -1,0 +1,6 @@
+Utiliza una arquitectura de capas (Modelos, Servicios y UI) 
+para separar los datos de la lógica de negocio y la visualización,
+ permitiendo registrar placas, marcas y propietarios de forma organizada.
+  El diseño final incluye un encabezado con un icono de texto, botones 
+ para mejorar la usabilidad y una tabla dinámica para visualizar 
+  los registros en tiempo real.
